@@ -12,9 +12,13 @@ public class MultiDimentionalArray {
 		animal[1][1]="Snake";
 		
 		System.out.println(animal[0][0]+" ");
+		
 		System.out.println(animal[0][1]+" ");
+		
 		System.out.println(animal[1][0]+" ");
+		
 		System.out.println(animal[1][1]+" ");
+		
 		System.out.println("===============================");
 	
 	
