@@ -28,7 +28,15 @@ public class MultiDimentionalArray {
 			System.out.print(animal[i][j]+" ");
 		}
 		System.out.println();
-	}	
+	}
+	
+	String birds[][]=new String[2][2];
+	
+	animal[0][0]="crow";
+	animal[0][1]="Popat";
+	animal[1][0]="hen";
+	animal[1][1]="Pecock";
+	System.out.println(birds);
 	}
 
 }
